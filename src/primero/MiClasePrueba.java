@@ -7,6 +7,7 @@ public class MiClasePrueba {
 		System.out.println("Mi primer programa 2222"); 
 		System.out.println("esta es otra linea de codigo");
 		System.out.println("otra linea mas");
+		System.out.println("otra linea mas");
 	}
 
 }
